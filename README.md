@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sreekanthkuncham
 - 👀 I’m interested in python
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning c
 - 💞️ I’m looking to collaborate on projects regarding python
 - 📫 Mail - kunchamsreekanthreddy@gmail.com
 
